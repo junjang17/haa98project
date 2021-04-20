@@ -1,2 +1,2 @@
-# haa96project
-Project for Harvard's HAA 96
+# haa98project
+Project for Harvard's HAA 98
